@@ -32,7 +32,7 @@ npm i --save-dev @wdio/appium-service
 
 ## Kullanım
 
-Senaryoları lokalde çalıştırabilme için terminal'e
+Senaryoları lokalde çalıştırabilmek için terminal'e
 ```
 npm run local.app
 ```
