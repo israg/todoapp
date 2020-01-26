@@ -1,8 +1,8 @@
-#TO-DO APP UI Tests
+# TO-DO APP UI Tests
 
 TO-DO App için hazırlanan UI Test senaryoları
 
-##Kurulum
+## Kurulum
 
 Senaryoların çalıştırılabilmesi için proje içerisinde webdriver.io kütüphanesinin aşağıdaki package'ların indirilmesi gerekiyor
 
